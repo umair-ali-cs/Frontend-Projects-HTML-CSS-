@@ -51,10 +51,10 @@ You can view the live website here:
 
 ## 🔹 Screenshots
 
-![Home Section](https://drive.google.com/file/d/1Mno2hio7g6mBprfl6aJh7iHJOLaa0vye/view?usp=drive_link)
+![Home Section](https://github.com/umair-ali-cs/Frontend-Projects-HTML-CSS-/blob/main/Blanca%20Padel%20Clone/Assets/Images/blanca%20home.PNG)
 *Hero section with video background and minimal typography.*
 
-![Products Section](https://drive.google.com/file/d/1Mno2hio7g6mBprfl6aJh7iHJOLaa0vye/view?usp=drive_link)
+![Products Section](https://github.com/umair-ali-cs/Frontend-Projects-HTML-CSS-/blob/main/Blanca%20Padel%20Clone/Assets/Images/blanca%20Products.PNG)
 *Featured racquets and product showcase.*
 
 ---
