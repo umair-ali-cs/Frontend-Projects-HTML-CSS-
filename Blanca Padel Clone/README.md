@@ -51,10 +51,10 @@ You can view the live website here:
 
 ## 🔹 Screenshots
 
-![Home Section](Assets/Images/sec1_screenshot.png)  
+![Home Section](https://drive.google.com/file/d/1Mno2hio7g6mBprfl6aJh7iHJOLaa0vye/view?usp=drive_link)  
 *Hero section with video background and minimal typography.*
 
-![Products Section](Assets/Images/sec4_screenshot.png)  
+![Products Section](https://drive.google.com/file/d/1Mno2hio7g6mBprfl6aJh7iHJOLaa0vye/view?usp=drive_link)  
 *Featured racquets and product showcase.*
 
 ---
