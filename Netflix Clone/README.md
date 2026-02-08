@@ -23,22 +23,22 @@ The page replicates the visual layout of the Netflix landing page, including the
 ## Project Structure
 
 Netflix-Clone/
-|
+│
 ├── index.html
 ├── style.css
 ├── Assets/
-|   |
-|   └── Images/
-|       ├── backgroundimg.jpg
-|       ├── down-arrow.avg
-|       ├── FavIcon.png
-|       ├── Lang.svg
-|       ├── Logonetflix.png
-|       ├── Phone.png
-|       ├── Plus.png
-|       └── tv.png
-|
+│   └── Images/
+│       ├── backgroundimg.jpg
+│       ├── down-arrow.svg
+│       ├── FavIcon.png
+│       ├── Lang.svg
+│       ├── Logonetflix.png
+│       ├── Phone.png
+│       ├── Plus.png
+│       └── tv.png
+│
 └── README.md
+
 
 ## Learning Outcomes
 
